@@ -8,6 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Steps to run app
 1.Clone the repo
+
 2.Run npm install
+
 3.Run npm start
+
 Demo using loom - https://www.loom.com/share/04b1ee51bb6d4204adc6677a9cd908b4
